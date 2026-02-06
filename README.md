@@ -1,9 +1,9 @@
 # HR_Analytics_Dashboard
 
-Objective:
+# Objective:
 To help an organization to improve employee performance and improve employee retention(reduce attrition) by creating a Hr Analytics Dashboard.
 
-Step Followed:-
+# Step Followed:-
 1)DATAEXTRACTION:- Extracted the data provided by the client.
 
 2)DATATRANSFORMATION:- Loaded the data into power BI and removed null and duplicate values, corrected spellinf errors,adjusted data types using Power Query.
@@ -16,7 +16,7 @@ Step Followed:-
 
 6)REPORT:- Created User-Friendly reports and visualization through dashboard.
 
-KEY INSIGHTS :-
+# KEY INSIGHTS :-
 *Empolyees of age group (26-35) have the highest attrition rate.
 
 *Life science Education and laboratory Technician role shows the highest attrition percentages.
@@ -26,12 +26,14 @@ KEY INSIGHTS :-
 *Empolyees with (1-2)years of experience show the highest attrition rates.
 
 *Although the average salary is 6.5k employees earning below this range are more likely to leave the company.
+
 ============================================================================================================
-Situation: High operational costs driven by unmanaged employee turnover and fragmented HR data.
 
-Task: Develop an end-to-end People Analytics solution to identify attrition drivers and quantify churn variables.
+# Situation: High operational costs driven by unmanaged employee turnover and fragmented HR data.
 
-Action: * Engineered automated ETL pipelines in Power Query to normalize diverse workforce datasets.
+# Task: Develop an end-to-end People Analytics solution to identify attrition drivers and quantify churn variables.
+
+# Action: * Engineered automated ETL pipelines in Power Query to normalize diverse workforce datasets.
 
 Architected a Star Schema model and DAX measures to analyze salary variance and tenure.
 
@@ -39,7 +41,7 @@ Performed Correlation Analysis to link job satisfaction levels with departmental
 
 Designed high-fidelity dashboards with Heat Maps to visualize high-risk attrition clusters.
 
-Result: * Pinpointed high-risk segments (Ages 26-35 and earners below $6.5k), enabling targeted retention.
+# Result: * Pinpointed high-risk segments (Ages 26-35 and earners below $6.5k), enabling targeted retention.
 
 Discovered critical 24-month tenure risks, leading to a redesigned onboarding framework.
 
