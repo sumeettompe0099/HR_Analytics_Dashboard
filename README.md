@@ -29,11 +29,14 @@ To help an organization to improve employee performance and improve employee ret
 
 ============================================================================================================
 
-# Situation: High operational costs driven by unmanaged employee turnover and fragmented HR data.
+# Situation: 
+High operational costs driven by unmanaged employee turnover and fragmented HR data.
 
-# Task: Develop an end-to-end People Analytics solution to identify attrition drivers and quantify churn variables.
+# Task:
+Develop an end-to-end People Analytics solution to identify attrition drivers and quantify churn variables.
 
-# Action: * Engineered automated ETL pipelines in Power Query to normalize diverse workforce datasets.
+# Action: 
+Engineered automated ETL pipelines in Power Query to normalize diverse workforce datasets.
 
 Architected a Star Schema model and DAX measures to analyze salary variance and tenure.
 
@@ -41,7 +44,8 @@ Performed Correlation Analysis to link job satisfaction levels with departmental
 
 Designed high-fidelity dashboards with Heat Maps to visualize high-risk attrition clusters.
 
-# Result: * Pinpointed high-risk segments (Ages 26-35 and earners below $6.5k), enabling targeted retention.
+# Result: 
+Pinpointed high-risk segments (Ages 26-35 and earners below $6.5k), enabling targeted retention.
 
 Discovered critical 24-month tenure risks, leading to a redesigned onboarding framework.
 
